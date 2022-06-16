@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2022-06-16 10:03:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-06-16 08:22:52 -0400"
@@ -869,7 +875,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2022-06-16 09:10:23 -0400"
+      "minecraft:skeleton": "2022-06-16 09:10:23 -0400",
+      "minecraft:zombie": "2022-06-16 09:55:19 -0400"
     },
     "done": false
   },
