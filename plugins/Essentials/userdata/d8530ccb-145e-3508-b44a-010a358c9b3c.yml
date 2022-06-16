@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1655386964688
+  logout: 1655389563341
   login: 1655387466521
 money: '0'
 logoutlocation:
   world: 0ab48270-0356-448e-91b9-8eab1fec9f41
   world-name: world
-  x: 198.80172927275214
-  y: -59.0
-  z: 41.063110233405595
-  yaw: 1.248046875
-  pitch: 70.20025634765625
+  x: 195.67237538576066
+  y: 63.0
+  z: 36.64626640874718
+  yaw: 23.30126953125
+  pitch: 15.450071334838867
 last-account-name: systematicism
 lastlocation:
   world: 0ab48270-0356-448e-91b9-8eab1fec9f41
