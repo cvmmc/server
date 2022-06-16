@@ -1,9 +1,6 @@
 Desktop/
 snap/
-server.jar
 logs/
 .*
 !/.gitignore
-terralith-v2-3-2.zip
 *.pem
-world.zip
