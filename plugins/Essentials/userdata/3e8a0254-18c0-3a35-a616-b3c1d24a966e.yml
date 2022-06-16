@@ -16,16 +16,16 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1655385151807
+  logout: 1655386969539
   login: 1655386255664
 money: '0'
 logoutlocation:
   world: 0ab48270-0356-448e-91b9-8eab1fec9f41
   world-name: world
-  x: 380.69999998807907
-  y: -3.0
-  z: 7.676421270375359
-  yaw: 102.15087890625
-  pitch: 11.250258445739746
+  x: 403.918228260343
+  y: 67.23152379758702
+  z: 3.8648346340838993
+  yaw: -87.89581298828125
+  pitch: 51.44989013671875
 last-account-name: guest16lol
 confirm-clear: true
