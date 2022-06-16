@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.181.177.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655382948910
+  login: 1655383519878
+money: '0'
+logoutlocation:
+  world: 0ab48270-0356-448e-91b9-8eab1fec9f41
+  world-name: world
+  x: 250.75417619410374
+  y: 93.0
+  z: -35.29647322142344
+  yaw: -99.29928588867188
+  pitch: 45.749839782714844
+last-account-name: guest16lol
+confirm-clear: true

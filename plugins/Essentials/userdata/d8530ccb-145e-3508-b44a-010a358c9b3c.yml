@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 50.107.183.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655382939258
+  login: 1655382976641
+money: '0'
+logoutlocation:
+  world: 0ab48270-0356-448e-91b9-8eab1fec9f41
+  world-name: world
+  x: 190.94571531008685
+  y: 70.0
+  z: -9.47598972549436
+  yaw: -85.19921875
+  pitch: 8.10010814666748
+last-account-name: systematicism
